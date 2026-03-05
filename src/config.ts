@@ -266,11 +266,11 @@ export const config = {
   // COLORS (Theme) - Rose Gold / Warm Champagne
   // ============================================
   colors: {
-    primary: "#D4A574",
-    primaryRgb: "212, 165, 116",
+    primary: "#D4AF37",
+    primaryRgb: "212, 175, 55",
     dark: "#1A1A1A",
-    light: "#FDF8F5",
-    lightAlt: "#F9F2EE",
+    light: "#FFFDF5",
+    lightAlt: "#FFF9E6",
   },
 
   // ============================================
