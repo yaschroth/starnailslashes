@@ -5,11 +5,11 @@
   --font-serif: "Cormorant Garamond", serif;
   --font-sans: "Inter", sans-serif;
 
-  /* Brand Colors - Star Nails & Lashes (Golden Yellow / Star Gold) */
-  --color-primary: #D4AF37;
+  /* Brand Colors - Star Nails & Lashes (Rich Champagne Gold) */
+  --color-primary: #B8860B;
   --color-dark: #1A1A1A;
-  --color-light: #FFFDF5;
-  --color-light-alt: #FFF9E6;
+  --color-light: #FAFAFA;
+  --color-light-alt: #F5F5F5;
 }
 
 @layer base {
