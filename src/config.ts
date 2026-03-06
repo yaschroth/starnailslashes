@@ -8,7 +8,7 @@ export const config = {
     name: "Star Nails & Lashes",
     tagline: "NAGELSTUDIO · FREIBURG",
     motto: "Eleganz bis in die Fingerspitzen",
-    description: "Ihr Premium Nagelstudio in Freiburg. Von eleganten Klassikern bis zu modernen Kunstwerken – jedes Design wird mit Liebe zum Detail und höchster Präzision kreiert.",
+    description: "Ihr Premium Nagelstudio in Freiburg. Von eleganten Klassikern bis zu modernen Kunstwerken:jedes Design wird mit Liebe zum Detail und höchster Präzision kreiert.",
     foundingYear: 2020,
     yearsExperience: 5,
     yearsInCenter: 5,
@@ -89,8 +89,8 @@ export const config = {
     fullName: "Star Nails & Lashes Team",
     image: "/beauty/face.jpg",
     bio: [
-      "Willkommen bei Star Nails & Lashes – Ihrem exklusiven Nagelstudio im Herzen von Freiburg. Mit Leidenschaft und Präzision verwandeln wir Ihre Nägel in kleine Kunstwerke.",
-      "Unser erfahrenes Team kreiert individuelle Designs, die perfekt zu Ihrem Stil passen – von dezenter Eleganz bis zu auffälligem Glamour.",
+      "Willkommen bei Star Nails & Lashes:Ihrem exklusiven Nagelstudio im Herzen von Freiburg. Mit Leidenschaft und Präzision verwandeln wir Ihre Nägel in kleine Kunstwerke.",
+      "Unser erfahrenes Team kreiert individuelle Designs, die perfekt zu Ihrem Stil passen:von dezenter Eleganz bis zu auffälligem Glamour.",
       "Bei uns genießen Sie nicht nur erstklassige Nail Art, sondern auch eine entspannte Atmosphäre, in der Sie sich rundum wohlfühlen können.",
     ],
     certifications: [
@@ -298,7 +298,7 @@ export const config = {
       {
         icon: "check",
         title: "Zentrale Lage",
-        description: "Mitten in der Freiburger Altstadt – perfekt erreichbar für alle.",
+        description: "Mitten in der Freiburger Altstadt:perfekt erreichbar für alle.",
       },
     ],
   },
