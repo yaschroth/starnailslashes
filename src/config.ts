@@ -49,7 +49,7 @@ export const config = {
   // SOCIAL MEDIA
   // ============================================
   social: {
-    instagram: "https://www.instagram.com/starnailslashes.4/",
+    instagram: "#",
     facebook: "",
     tiktok: "",
   },
