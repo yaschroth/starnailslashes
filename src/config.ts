@@ -28,21 +28,21 @@ export const config = {
   // CONTACT INFORMATION
   // ============================================
   contact: {
-    phone: "0761 5900 5119",
-    phoneLink: "tel:+497615900 5119",
-    mobile: "01523 7399819",
-    mobileLink: "tel:+4915237399819",
-    email: "starnailslashes@gmail.com",
-    whatsapp: "+49 1523 7399819",
-    whatsappLink: "https://wa.me/4915237399819",
+    phone: "0123 456 7890",
+    phoneLink: "tel:+491234567890",
+    mobile: "0170 123 4567",
+    mobileLink: "tel:+491701234567",
+    email: "info@example.com",
+    whatsapp: "+49 170 123 4567",
+    whatsappLink: "https://wa.me/491701234567",
     address: {
-      street: "Schreiberstraße 4",
-      city: "Freiburg im Breisgau",
-      district: "Altstadt",
+      street: "Musterstraße 1",
+      city: "Freiburg",
+      district: "Zentrum",
       zip: "79098",
     },
-    googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2673.6789!2d7.8487!3d47.9959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47911c9e1a3f0001%3A0x1234567890abcdef!2sSchreiberstra%C3%9Fe%204%2C%2079098%20Freiburg%20im%20Breisgau!5e0!3m2!1sde!2sde!4v1234567890",
-    googleMapsLink: "https://www.google.com/maps/search/?api=1&query=Schreiberstraße+4,+79098+Freiburg+im+Breisgau",
+    googleMapsEmbed: "",
+    googleMapsLink: "#",
   },
 
   // ============================================
